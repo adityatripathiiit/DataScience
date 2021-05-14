@@ -1,51 +1,33 @@
-# Agent-Based-Simulations ⭐
+# Data Science ⭐
 
-A repository containing introductory to advanced assignments and their solutions for netlogo ABM models. 
+A repository containing datascience implementational resources
 
 ## Directory Architecture: 📁
-#
-```
-Agent-Based-Simulations
-├─ Fire_model_extension.nlogo
-├─ Information_Diffusion_Model.nlogo
-├─ M1.nlogo
-├─ M2.nlogo
-├─ M3.nlogo
-├─ M4.nlogo
+DataScience
+├─ CMS-CS-MG.ipynb
+├─ Optimal_Greedy_K_center.ipynb
 ├─ README.md
-├─ epidemic.nlogo
-├─ heros_cowards_model.nlogo
-├─ images
-│  ├─ 3.jpeg
-│  ├─ img1.jpeg
-│  ├─ img2.jpeg
-│  ├─ img4.jpeg
-│  └─ img5.jpeg
-└─ social_ecomoic_networks_model.nlogo
+├─ data_visualization.ipynb
+└─ low_rank_approximation(SVD).ipynb
+#
 
-```
-## Fire-model_extension 🔥
+## Count-Min-Sketch, Count-Sketch, Misra-Gries Implementations and Performance comparision 🔥
 
-![picture alt](./images/img2.jpeg "Model")
+![picture alt](./images/cmcs1.jpeg "Model")
 
-## Hero-Coward-Model 🔥
+![picture alt](./images/cmcs2.jpeg "Model")
 
-![picture alt](./images/img1.jpeg "Model")
+## Data Visualization 🔥
 
-## Information-Diffusion-Model 🔥
+Here is the link to video: https://youtu.be/H4l6AK_pquM
 
-![picture alt](./images/3.jpeg "Model")
+![picture alt](./images/data.jpeg "Model")
 
-## Pandemic-Model 🔥
+## Optimal K-center and Greedy K-center (two approximate) Comaprision 🔥
 
-![picture alt](./images/img4.jpeg "Model")
+![picture alt](./images/k.jpeg "Model")
 
-## Social_Ecomoic_Networks_Model 🔥
+## Low-Rank-Approximation-Matrix 🔥
 
-![picture alt](./images/img5.jpeg "Model")
-
-## Model and Instructions to run :runner:
-- Each model has documentation in ODD protocol, which can be found in the info tab of the model. 
-- This model has been created in netlogo version 6.2. Kindly download netlogo 6.2 and use it to run the model 
-
+![picture alt](./images/svd1.jpeg "Model")
 
