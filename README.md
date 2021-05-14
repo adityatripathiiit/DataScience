@@ -3,6 +3,7 @@
 A repository containing datascience implementational resources
 
 ## Directory Architecture: 📁
+```
 DataScience
 ├─ CMS-CS-MG.ipynb
 ├─ Optimal_Greedy_K_center.ipynb
@@ -10,7 +11,7 @@ DataScience
 ├─ data_visualization.ipynb
 └─ low_rank_approximation(SVD).ipynb
 #
-
+```
 ## Count-Min-Sketch, Count-Sketch, Misra-Gries Implementations and Performance comparision 🔥
 
 ![picture alt](./images/cmcs1.jpeg "Model")
